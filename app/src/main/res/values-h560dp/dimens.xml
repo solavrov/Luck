@@ -1,0 +1,24 @@
+<resources>
+
+    <!--play-->
+    <dimen name="activity_horizontal_margin">4dp</dimen>
+    <dimen name="activity_vertical_margin">4dp</dimen>
+    <dimen name="medals_between_margin">2dp</dimen>
+    <dimen name="medals_font_size">14dp</dimen>
+    <dimen name="message_font_size">32dp</dimen>
+    <dimen name="capital_font_size">72dp</dimen>
+    <dimen name="losswin_font_size">28dp</dimen>
+    <dimen name="info_font_size">20dp</dimen>
+    <dimen name="finish_font_size">20dp</dimen>
+    <dimen name="press_finish_font_size">16dp</dimen>
+    <dimen name="stepjump_font_size">18dp</dimen>
+
+    <!--finish-->
+    <dimen name="congrats_bottom_margin">24dp</dimen>
+    <dimen name="congrats_font_size">36dp</dimen>
+    <dimen name="finish_button_size">137dp</dimen>
+
+    <!--info-->
+    <dimen name="info_scroll_font_size">24dp</dimen>
+
+</resources>

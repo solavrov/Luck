@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Try your luck</string>
+    <string name="info"
+            formatted="false"><u>Rules</u>\nStarting with 100 points, \"step\" and \"jump\" to gain
+        as many points as you can without hitting a bottom of zero. The more you gain, the luckier
+        you are today. Everything is absolutely random. Good Luck!\n\n<u>Step</u>\nUsually you
+        \"step\" 10 points but you can lose 110. The chance to win is 90%. The chance to lose is
+        10%\n\n<u>Jump</u>\nUsually you lose 10 points but you can \"jump\" 80. The chance to
+        lose is 90%. The chance to win is 10%\n\n<u>Chances</u>\nFifty-Fifty (200) ~
+        40%\nFair Luck (300) ~ 25%\nExceptional Luck (500) ~ 10%\nIncredible Luck
+        (700) ~ 5%\nUnbelievable Luck (1,000) ~ 2%\n\n<u>About </u>\nVersion
+        2.5\nAuthor: Stanislav
+        Lavrov\nSmallShilpsInvest@gmail.com\nSmallShipsInvest.blogspot.com\n\n<u>Credits
+        </u>\nSounds: freesfx.co.uk\nImages: psdgraphics.com, clipartpng.com,
+        gallery.yopriceville.com\nFonts: free-fonts.com</string>
+</resources>
